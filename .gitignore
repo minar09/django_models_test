@@ -12,3 +12,5 @@
 .idea/
 *.log
 .DS_Store
+.metadata
+.metadata/
