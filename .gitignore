@@ -2,6 +2,7 @@
 .idea/dataSources.local.xml
 .idea/dataSources.xml
 .idea/vcs.xml
+.idea/misc.xml
 /.idea
 *.pyc
 *.xml
@@ -14,3 +15,4 @@
 .DS_Store
 .metadata
 .metadata/
+blog/migrations/0001_initial.py
