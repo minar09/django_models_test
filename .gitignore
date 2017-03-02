@@ -1,0 +1,14 @@
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/vcs.xml
+/.idea
+*.pyc
+*.xml
+.pydev
+.idea
+.pydevproject
+.project
+.idea/
+*.log
+.DS_Store
